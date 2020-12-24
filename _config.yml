@@ -30,6 +30,8 @@ favicon: /assets/images/itunesthumb.png
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 
+remote_theme: chrisrhymes/bulma-clean-theme
+
 # twitter_username: oequezada
 # github_username: 
 
@@ -47,6 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - kramdown-parser-gfm
+  - github-pages
 
 
 defaults:
