@@ -78,7 +78,7 @@ PLATFORMS
 
 DEPENDENCIES
   bulma-clean-theme
-  jekyll (~> 3.8)
+  jekyll (~> 3.9)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   tzinfo (~> 1.2)
